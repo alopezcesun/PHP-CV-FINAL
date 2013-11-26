@@ -328,7 +328,7 @@ $action=$_REQUEST['action'];
 if (!$action=="action")    /* display the contact form */
     {
     ?>
-    <form  action="action" method="POST" enctype="multipart/form-data">
+    <form  action="index.php" method="POST" enctype="multipart/form-data">
     <input type="hidden" name="action" value="submit">
     Your name:<br>
     <input name="name" type="text" value="" size="30"/><br>
