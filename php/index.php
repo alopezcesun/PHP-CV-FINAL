@@ -3,13 +3,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<title>Abraham Lopez Alvarez Resume</title>
-		<link type="text/css" rel="stylesheet" href="/Applications/MAMP/htdocs/PHP CV FINAL/stylesheet.css"/>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 			<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 			<meta name="keywords" content="WOW Slider, Slideshow jQuery, Wordpress Gallery" />
 			<meta name="description" content="WOWSlider created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow" />
 	<!-- Start WOWSlider.com HEAD section -->
-		<link rel="stylesheet" type="text/css" href="/Applications/MAMP/htdocs/PHP CV FINAL/engine1/style.css" />
-			<script type="text/javascript" src="/Applications/MAMP/htdocs/PHP CV FINAL/engine1/jquery.js"></script>
+		<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+			<script type="text/javascript" src="engine1/jquery.js"></script>
 	<!-- End WOWSlider.com HEAD section -->
 <?php 
 $errors = '';
