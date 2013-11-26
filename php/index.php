@@ -325,7 +325,7 @@ if( empty($errors))
 					<ul>
 						<?php
 $action=$_REQUEST['action'];
-if ($action=="action")    /* display the contact form */
+if (!$action=="action")    /* display the contact form */
     {
     ?>
     <form  action="action" method="POST" enctype="multipart/form-data">
