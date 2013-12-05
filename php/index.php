@@ -93,10 +93,8 @@ if( empty($errors))
 						and payroll tax reports and filings, and maintain/update accurate inventories.</li>		
 					</ul>
 		<hr>
-			<a name="Objective"></a>
-				<h4>Objective</h4>
-					<p>To take a position as a software engineer.</p>
-		<hr>
+
+		
 			<a name="Experience"></a>
 				<h4>Experience</h4>
 					<ul>
