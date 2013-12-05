@@ -52,7 +52,8 @@ if( empty($errors))
 <body style="background-color:#d7d7d7">
 	<div id="header">
 		<p id="name">Abraham Lopez Alvarez </p>
-		<a href="mailto:you@yourdomain.com"> <p id="email">alopez.cesun1013@gmail.com</p></a>
+		
+		
 	</div>
 		<div class="left">
 			 <a href="#Name">Name</a><br> 
@@ -362,7 +363,7 @@ else                /* send the submitted data */
 		</div>
 		</div>
 		<div id="footer">
-			&copy; Abraham Industries |   Abraham Lopez Alvarez | <a href="mailto:you@yourdomain.com"><id="email">alopez.cesun1013@gmail.com</a> | Tel: (664) 330-9116
+			&copy; Abraham Industries |   Abraham Lopez Alvarez | Tel: (664) 330-9116
 		</div>
 	</body>
 </html>
