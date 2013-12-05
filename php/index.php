@@ -56,7 +56,7 @@ if( empty($errors))
 		
 	</div>
 		<div class="left">
-			 <a href="#Name">Name</a><br> 
+			 <a href="#Name">Name</a><br/> 
 			 <a href="#About Me">About Me</a><br>
 			 <a href="#Objective">Objective</a><br> 
 			 <a href="#Experience">Experience</a> <br>
