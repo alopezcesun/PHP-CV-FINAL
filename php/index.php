@@ -57,14 +57,14 @@ if( empty($errors))
 	</div>
 		<div class="left">
 			 <a href="#Name">Name</a><br/> 
-			 <a href="#About Me">About Me</a><br>
-			 <a href="#Objective">Objective</a><br> 
-			 <a href="#Experience">Experience</a> <br>
-			 <a href="#Skills">Skills</a> <br>
-			 <a href="#Education">Education</a><br>
-			 <a href="#Language">Language</a><br> 
-			 <a href="#Photos">Photos</a><br> 
-			 <a href="#Contact">Contact</a><br>
+			 <a href="#About Me">About Me</a><br/>
+			 <a href="#Objective">Objective</a><br/> 
+			 <a href="#Experience">Experience</a> <br/>
+			 <a href="#Skills">Skills</a> <br/>
+			 <a href="#Education">Education</a><br/>
+			 <a href="#Language">Language</a><br/> 
+			 <a href="#Photos">Photos</a><br/> 
+			 <a href="#Contact">Contact</a><br/>
 		</div>
 		<div class="right">
 			<a name="Name"></a>
