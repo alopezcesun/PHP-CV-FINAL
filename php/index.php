@@ -83,7 +83,7 @@ if( empty($errors))
 							<strong> Marital Status: </strong>Single<br/>
 							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/>
 						</ul>
-		<hr>
+		<hr/>
 			<a name="About Me"></a>
 				<h4>About Me</h4>
 					<ul>
