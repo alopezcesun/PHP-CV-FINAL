@@ -71,17 +71,17 @@ if( empty($errors))
 				<h3>Name</H3>
 					<H4>Abraham Lopez Alvarez</H4>
 						<ul>
-							<strong> Date of Birth:</strong>July 19th 1983<br>
-							<strong> Place of Birth:</strong>Tijuana Baja California<br>
-							<strong> Address:</strong>7th Street # 7767, Down Town Tijuana, B.C., Mexico.<br> 
-							<strong> Zip Code:</strong>22000<br>
-							<strong> Home Number:</strong> (664) 685-43-01<br>
-							<strong> Home Number2:</strong> (664) 688-32-06<br>
-							<strong> Cell Phone Number:</strong> (044)66 43-30-91-16<br>
-							<strong> Email Address:</strong><a href="mailto:you@yourdomain.com"><id="email">alopez.cesun1013@gmail.com</a><br>
-							<strong> Linked Profile:</strong><a href="http://www.linkedin.com/pub/abraham-lopez/1a/940/273"><id="link">Abraham Lopez's Profile</a><br>
-							<strong> Marital Status: </strong>Single<br>
-							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br>
+							<strong> Date of Birth:</strong>July 19th 1983<br/>
+							<strong> Place of Birth:</strong>Tijuana Baja California<br/>
+							<strong> Address:</strong>7th Street # 7767, Down Town Tijuana, B.C., Mexico.<br/> 
+							<strong> Zip Code:</strong>22000<br/>
+							<strong> Home Number:</strong> (664) 685-43-01<br/>
+							<strong> Home Number2:</strong> (664) 688-32-06<br/>
+							<strong> Cell Phone Number:</strong> (044)66 43-30-91-16<br/>
+							<strong> Email Address:</strong><a href="mailto:you@yourdomain.com"><id="email">alopez.cesun1013@gmail.com</a><br/>
+							<strong> Linked Profile:</strong><a href="http://www.linkedin.com/pub/abraham-lopez/1a/940/273"><id="link">Abraham Lopez's Profile</a><br/>
+							<strong> Marital Status: </strong>Single<br/>
+							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/>
 						</ul>
 		<hr>
 			<a name="About Me"></a>
@@ -98,7 +98,7 @@ if( empty($errors))
 			<a name="Experience"></a>
 				<h4>Experience</h4>
 					<ul>
-						<li><strong>Border Assembly</strong><br>
+						<li><strong>Border Assembly</strong><br/>
 							Project Coordinator
 							<ul>
 								<li>Logistics Cordination</li>	
@@ -119,7 +119,7 @@ if( empty($errors))
 								<li>Customer Service Care</li>
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
-						<li><strong>Maquiladora CJG</strong><br>
+						<li><strong>Maquiladora CJG</strong><br/>
 							Project Coordinator / Software Consultant
 							<ul>
 								<li>Logistics Cordination</li>	
@@ -137,7 +137,7 @@ if( empty($errors))
 								<li>Customer Service Care</li>
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
-						<li><strong>Dental Clinic Klinike Dentale</strong><br>
+						<li><strong>Dental Clinic Klinike Dentale</strong><br/>
 							It Support
 							<ul>
 								<li>Proyect Administrator</li>
@@ -148,7 +148,7 @@ if( empty($errors))
 								<li>Create New emails</li>
 								<li>Software maintenance (installation, updating, Removing, Blocking, etc)</li> 
 							</ul>
-						<li><strong>Crown Transportation</strong></li><br>
+						<li><strong>Crown Transportation</strong></li><br/>
 							Project Coordinator / Software Consultant
 							<ul>
 								<li>Implementation of new technologies</li>
@@ -166,7 +166,7 @@ if( empty($errors))
 								<li>Estabilsh goal oriented work schedule</li>
 								<li>Customer Service</li>
 							</ul>
-						<li><strong>DHL Express</strong></li><br>
+						<li><strong>DHL Express</strong></li><br/>
 							Logistics Coordinator 
 							<ul>
 								<li>Logistics Coordination</li>
@@ -195,7 +195,7 @@ if( empty($errors))
 								<li>Take Notes in meeting</li>
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
-						<li><strong>NLP Furniture</strong></li><br>
+						<li><strong>NLP Furniture</strong></li><br/>
 							Project Coordinator
 							<ul>
 								<li>Work Order Entry</li> 
@@ -209,7 +209,7 @@ if( empty($errors))
 								<li>Customer service care</li>
 								<li>Validation for transportation for finished goods</li>
 							</ul>
-						<li><strong>NLP Furniture</strong></li><br>
+						<li><strong>NLP Furniture</strong></li><br/>
 							Buyer
 							<ul>
 								<li>Purchase Order Entry</li> 
@@ -223,7 +223,7 @@ if( empty($errors))
 								<li>Customer service care</li>
 								<li>Validation for transportation for finished goods</li>
 							</ul>
-						<li><strong>NLP Furniture</strong></li><br>
+						<li><strong>NLP Furniture</strong></li><br/>
 							It Support
 							<ul>
 								<li>Hardware Maintenance (Preventive Care)</li>
@@ -253,31 +253,31 @@ if( empty($errors))
 		<hr>
 			<a name="Education"></a>
 				<h4>Education</h4>
-					<li><strong>Professional Education</strong><br>
+					<li><strong>Professional Education</strong><br/>
 						Cesun University Tijuana, B.C., México
 						<ul>
-							<li>Software Development Engineering 2010-2013 (Current)<br>
+							<li>Software Development Engineering 2010-2013 (Current)<br/>
 							Due to be completed by December 2013 </li>
 						</ul>
 					</li>
-					<li><strong>Professional Education</strong><br>
+					<li><strong>Professional Education</strong><br/>
 						Universidad Autónoma de Baja California  Tijuana, B.C., México
 						<ul>
-							<li>Electronic Engineering 2003-2004<br>
+							<li>Electronic Engineering 2003-2004<br/>
 							Only Attended 1 Year</li>
 						</ul>
 					</li>
-					<li><strong>High School Education</strong><br>
+					<li><strong>High School Education</strong><br/>
 						CBTIS # 155  Tijuana, B.C., México
 						<ul>
-							<li>Technical Career “Industrial Maintenance” 1999-2002<br>
+							<li>Technical Career “Industrial Maintenance” 1999-2002<br/>
 							Only Attended 1 Year</li>
 						</ul>
 					</li>
-					<li><strong>Specialized Computer Education</strong><br>
+					<li><strong>Specialized Computer Education</strong><br/>
 						CBTIS # 155  Tijuana, B.C., México
 						<ul>
-							<li>Technical Career “ Industrial Maintenance” 1999-2002<br>
+							<li>Technical Career “ Industrial Maintenance” 1999-2002<br/>
 							Only Attended 1 Year</li>
 						</ul>
 					</li>
@@ -329,12 +329,12 @@ if (!$action=="action")    /* display the contact form */
     ?>
     <form  action="index.php" method="POST" enctype="multipart/form-data">
     <input type="hidden" name="action" value="submit">
-    Your name:<br>
-    <input name="name" type="text" value="" size="30"/><br>
-    Your email:<br>
-    <input name="email" type="text" value="" size="30"/><br>
-    Your message:<br>
-    <textarea name="message" rows="7" cols="30"></textarea><br>
+    Your name:<br/>
+    <input name="name" type="text" value="" size="30"/><br/>
+    Your email:<br/>
+    <input name="email" type="text" value="" size="30"/><br/>
+    Your message:<br/>
+    <textarea name="message" rows="7" cols="30"></textarea><br/>
     <input type="submit" value="Send email"/>
     </form>
     <?php
