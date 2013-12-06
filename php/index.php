@@ -95,7 +95,7 @@ if( empty($errors))
 			<a name="Experience"></a>
 				<h4>Experience</h4>
 					<ul>
-						<li><strong>Border Assembly</strong><br/>
+						<li><strong>Border Assembly</strong>
 							Project Coordinator
 							<ul>
 								<li>Logistics Cordination</li>	
@@ -116,7 +116,7 @@ if( empty($errors))
 								<li>Customer Service Care</li>
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
-						<li><strong>Maquiladora CJG</strong><br/>
+						<li><strong>Maquiladora CJG</strong>
 							Project Coordinator / Software Consultant
 							<ul>
 								<li>Logistics Cordination</li>	
@@ -134,7 +134,7 @@ if( empty($errors))
 								<li>Customer Service Care</li>
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
-						<li><strong>Dental Clinic Klinike Dentale</strong><br/>
+						<li><strong>Dental Clinic Klinike Dentale</strong>
 							It Support
 							<ul>
 								<li>Proyect Administrator</li>
@@ -163,7 +163,7 @@ if( empty($errors))
 								<li>Estabilsh goal oriented work schedule</li>
 								<li>Customer Service</li>
 							</ul>
-						<li><strong>DHL Express</strong></li><br/>
+						<li><strong>DHL Express</strong></li>
 							Logistics Coordinator 
 							<ul>
 								<li>Logistics Coordination</li>
@@ -192,7 +192,7 @@ if( empty($errors))
 								<li>Take Notes in meeting</li>
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
-						<li><strong>NLP Furniture</strong></li><br/>
+						<li><strong>NLP Furniture</strong></li>
 							Project Coordinator
 							<ul>
 								<li>Work Order Entry</li> 
@@ -206,7 +206,7 @@ if( empty($errors))
 								<li>Customer service care</li>
 								<li>Validation for transportation for finished goods</li>
 							</ul>
-						<li><strong>NLP Furniture</strong></li><br/>
+						<li><strong>NLP Furniture</strong></li>
 							Buyer
 							<ul>
 								<li>Purchase Order Entry</li> 
@@ -220,7 +220,7 @@ if( empty($errors))
 								<li>Customer service care</li>
 								<li>Validation for transportation for finished goods</li>
 							</ul>
-						<li><strong>NLP Furniture</strong></li><br/>
+						<li><strong>NLP Furniture</strong></li>
 							It Support
 							<ul>
 								<li>Hardware Maintenance (Preventive Care)</li>
@@ -250,31 +250,31 @@ if( empty($errors))
 		<hr/>
 			<a name="Education"></a>
 				<h4>Education</h4>
-					<li><strong>Professional Education</strong><br/>
+					<li><strong>Professional Education</strong>
 						Cesun University Tijuana, B.C., México
 						<ul>
 							<li>Software Development Engineering 2010-2013 (Current)<br/>
 							Due to be completed by December 2013 </li>
 						</ul>
 					</li>
-					<li><strong>Professional Education</strong><br/>
+					<li><strong>Professional Education</strong>
 						Universidad Autónoma de Baja California  Tijuana, B.C., México
 						<ul>
-							<li>Electronic Engineering 2003-2004<br/>
+							<li>Electronic Engineering 2003-2004
 							Only Attended 1 Year</li>
 						</ul>
 					</li>
-					<li><strong>High School Education</strong><br/>
+					<li><strong>High School Education</strong>
 						CBTIS # 155  Tijuana, B.C., México
 						<ul>
 							<li>Technical Career “Industrial Maintenance” 1999-2002<br/>
 							Only Attended 1 Year</li>
 						</ul>
 					</li>
-					<li><strong>Specialized Computer Education</strong><br/>
+					<li><strong>Specialized Computer Education</strong>
 						CBTIS # 155  Tijuana, B.C., México
 						<ul>
-							<li>Technical Career “ Industrial Maintenance” 1999-2002<br/>
+							<li>Technical Career “ Industrial Maintenance” 1999-2002
 							Only Attended 1 Year</li>
 						</ul>
 					</li>
