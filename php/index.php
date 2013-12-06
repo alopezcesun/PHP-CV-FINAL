@@ -155,7 +155,7 @@ if( empty($errors))
 								<li>Maping current procedures</li>
 								<li>Audit current procedures </li>
 								<li>Delivered Invoices to clients</li>
-								<li>Creating, Mapping more efficient procedures for Billing & collection of pending Invoices</li>
+								<li>Creating, Mapping more efficient procedures for Billing and collection of pending Invoices</li>
 								<li>Implementation of best practices culture</li>
 								<li>Lean Manufacturing</li>
 								<li>Six Sigma</li>
