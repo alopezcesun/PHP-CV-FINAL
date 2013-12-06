@@ -66,7 +66,7 @@ if( empty($errors))
 			 <a href="#Contact">Contact</a><br/>
 		</div>
 		<div class="right">
-			<a id name="Name"/>
+			<a name="Name">
 					<h4>Abraham Lopez Alvarez</h4>
 							<strong> Date of Birth:</strong>July 19th 1983<br/>
 							<strong> Place of Birth:</strong>Tijuana Baja California<br/>
@@ -75,8 +75,7 @@ if( empty($errors))
 							<strong> Home Number:</strong> (664) 685-43-01<br/>
 							<strong> Home Number2:</strong> (664) 688-32-06<br/>
 							<strong> Cell Phone Number:</strong> (044)66 43-30-91-16<br/>
-							<strong> Email Address:</strong><a href="mailto:you@yourdomain.com">
-																	<id="email">alopez.cesun1013@gmail.com></a><br/>
+							<strong> Email Address:</strong>alopez.cesun1013@gmail.com><br/>
 							<strong> Linked Profile:</strong><a href="http://www.linkedin.com/pub/abraham-lopez/1a/940/273">
 																<id="link">Abraham Lopez's Profile></a><br/>
 							<strong> Marital Status: </strong>Single<br/>
