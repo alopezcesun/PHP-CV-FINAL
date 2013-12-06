@@ -78,7 +78,7 @@ if( empty($errors))
 							<strong> Email Address:</strong><a href="mailto:you@yourdomain.com">
 																	<id="email">alopez.cesun1013@gmail.com></a><br/>
 							<strong> Linked Profile:</strong><a href="http://www.linkedin.com/pub/abraham-lopez/1a/940/273">
-																<id="link">Abraham Lopez's Profile</a><br/>
+																<id="link">Abraham Lopez's Profile></a><br/>
 							<strong> Marital Status: </strong>Single<br/>
 							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/>
 						
