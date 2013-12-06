@@ -90,7 +90,7 @@ if( empty($errors))
 						<li>Develop plan, conduct audits and variance analyses, process payroll
 						and payroll tax reports and filings, and maintain/update accurate inventories.</li>		
 					</ul>
-		<hr>
+		<hr/>
 			<a name="Experience"></a>
 				<h4>Experience</h4>
 					<ul>
@@ -230,7 +230,7 @@ if( empty($errors))
 								<li>Software maintenance (installation, updating, Removing, Blocking, etc)</li> 
 							</ul>
 				</ul>	
-		<hr>
+		<hr/>
 			<a name="Skills"></a>
 				<h4>Skills</h4>
 					<p><strong> Languages:</strong> C#, Java, CSS, IOS</p>
@@ -246,7 +246,7 @@ if( empty($errors))
 							<li>Creating new email for users</li>
 							<li>Remote desktop Support(Remote Desktop ,Team Viewer,Log me in,Join Me)</li>
 						</ul>
-		<hr>
+		<hr/>
 			<a name="Education"></a>
 				<h4>Education</h4>
 					<li><strong>Professional Education</strong><br/>
@@ -277,14 +277,14 @@ if( empty($errors))
 							Only Attended 1 Year</li>
 						</ul>
 					</li>
-		<hr>
+		<hr/>
 			<a name="Language"></a>
 				<h4>Language</h4>
 					<ul>
 						<li>Spanish (Native Language)</li>
 						<li>English 97% (Spoken/Written)</li>
 					</ul>
-		<hr>
+		<hr/>
 			<a name="Photos"></a>
 				<h4>Photos</h4>
 					<p>Image Galery</p>
@@ -314,7 +314,7 @@ if( empty($errors))
 				</div>
 					<script type="text/javascript" src="engine1/wowslider.js"></script>
 					<script type="text/javascript" src="engine1/script.js"></script>
-		<hr>
+		<hr/>
 				<a name="Contact"></a>
 				<h4>Contact us</h4>
 					<ul>
