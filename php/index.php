@@ -75,7 +75,8 @@ if( empty($errors))
 							<strong> Home Number:</strong> (664) 685-43-01<br/>
 							<strong> Home Number2:</strong> (664) 688-32-06<br/>
 							<strong> Cell Phone Number:</strong> (044)66 43-30-91-16<br/>
-							<strong> Email Address:</strong><a href="mailto:you@yourdomain.com"><id="email">alopez.cesun1013@gmail.com</a><br/>
+							<strong> Email Address:</strong><a href="mailto:you@yourdomain.com">
+																	<id="email">alopez.cesun1013@gmail.com></a><br/>
 							<strong> Linked Profile:</strong><a href="http://www.linkedin.com/pub/abraham-lopez/1a/940/273">
 																<id="link">Abraham Lopez's Profile</a><br/>
 							<strong> Marital Status: </strong>Single<br/>
