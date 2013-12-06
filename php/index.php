@@ -57,7 +57,7 @@ if( empty($errors))
 	</div>
 		<div class="left">
 			 <a href="#Name">Name</a><br/> 
-			 <a href="#About Me">About Me</a><br/>
+			 <a href="#AboutMe">About Me</a><br/>
 			 <a href="#Experience">Experience</a> <br/>
 			 <a href="#Skills">Skills</a> <br/>
 			 <a href="#Education">Education</a><br/>
@@ -84,7 +84,7 @@ if( empty($errors))
 							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/>
 						
 		<hr/>
-			<a name="About Me"></a>
+			<a name="AboutMe"></a>
 				<h4>About Me</h4>
 					<ul>
 						<li>More than 4 years successful experience in customer service and support with recognized strengths in account retention, problem- solving and trouble-shooting, sales staff support, and planning/implementing proactive procedures and systems to avoid problems in the first place.</li>
