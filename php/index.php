@@ -95,7 +95,7 @@ if( empty($errors))
 				<h4>Experience</h4>
 					<ul>
 						<li><strong>Border Assembly</strong></li>
-							<p>Project Coordinator</p>
+							Project Coordinator
 							<ul>
 								<li>Logistics Cordination</li>	
 								<li>Work Order Entry</li> 
@@ -116,7 +116,7 @@ if( empty($errors))
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
 						<li><strong>Maquiladora CJG</strong></li>
-							<p>Project Coordinator / Software Consultant</p>
+							Project Coordinator / Software Consultant
 							<ul>
 								<li>Logistics Cordination</li>	
 								<li>Work Order Entry</li> 
@@ -134,7 +134,7 @@ if( empty($errors))
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
 						<li><strong>Dental Clinic Klinike Dentale</strong></il>
-							<p>It Support</p>
+							It Support
 							<ul>
 								<li>Proyect Administrator</li>
 								<li>Hardware Maintenance (Preventive Care)</li>
