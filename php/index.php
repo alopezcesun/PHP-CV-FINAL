@@ -69,7 +69,6 @@ if( empty($errors))
 			<a name="Name"></a>
 				<h3>Name</h3>
 					<h4>Abraham Lopez Alvarez</h4>
-						
 							<strong> Date of Birth:</strong>July 19th 1983<br/>
 							<strong> Place of Birth:</strong>Tijuana Baja California<br/>
 							<strong> Address:</strong>7th Street # 7767, Down Town Tijuana, B.C., Mexico.<br/> 
@@ -142,7 +141,7 @@ if( empty($errors))
 								<li>Hardware Maintenance (Preventive Care)</li>
 								<li>Support Newtwork Administration</li>
 								<li>Support Server Administration </li>
-								<li>Assign & Create new Users</li>
+								<li>Assign and Create new Users</li>
 								<li>Create New emails</li>
 								<li>Software maintenance (installation, updating, Removing, Blocking, etc)</li> 
 							</ul>
@@ -227,7 +226,7 @@ if( empty($errors))
 								<li>Hardware Maintenance (Preventive Care)</li>
 								<li>Support Newtwork Administration</li>
 								<li>Support Server Administration </li>
-								<li>Assign &	 Create new Users</li>
+								<li>Assign and Create new Users</li>
 								<li>Create New emails</li>
 								<li>Software maintenance (installation, updating, Removing, Blocking, etc)</li> 
 							</ul>
