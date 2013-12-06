@@ -69,7 +69,7 @@ if( empty($errors))
 			<a name="Name"></a>
 				<h3>Name</h3>
 					<h4>Abraham Lopez Alvarez</h4>
-						<ul>
+						
 							<strong> Date of Birth:</strong>July 19th 1983<br/>
 							<strong> Place of Birth:</strong>Tijuana Baja California<br/>
 							<strong> Address:</strong>7th Street # 7767, Down Town Tijuana, B.C., Mexico.<br/> 
@@ -82,7 +82,7 @@ if( empty($errors))
 																<id="link">Abraham Lopez's Profile</a><br/>
 							<strong> Marital Status: </strong>Single<br/>
 							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/>
-						</ul>
+						
 		<hr/>
 			<a name="About Me"></a>
 				<h4>About Me</h4>
