@@ -68,7 +68,7 @@ if( empty($errors))
 		<div class="right">
 			<a name="Name"></a>
 					<h4>Abraham Lopez Alvarez</h4>
-							<em> Date of Birth:</em>July 19th 1983<br/>
+							<def> Date of Birth:</def>July 19th 1983<br/>
 							<strong> Place of Birth:</strong>Tijuana Baja California<br/>
 							<strong> Address:</strong>7th Street # 7767, Down Town Tijuana, B.C., Mexico.<br/> 
 							<strong> Zip Code:</strong>22000<br/>
