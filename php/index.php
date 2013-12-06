@@ -145,7 +145,7 @@ if( empty($errors))
 								<li>Create New emails</li>
 								<li>Software maintenance (installation, updating, Removing, Blocking, etc)</li> 
 							</ul>
-						<li><strong>Crown Transportation</strong></li><br/>
+						<li><strong>Crown Transportation</strong></li>
 							Project Coordinator / Software Consultant
 							<ul>
 								<li>Implementation of new technologies</li>
