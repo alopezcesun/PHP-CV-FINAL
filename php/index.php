@@ -67,7 +67,7 @@ if( empty($errors))
 		</div>
 		<div class="right">
 			<a name="Name"></a>
-				<h3>Name</H3>
+				<h3>Name</h3>
 					<H4>Abraham Lopez Alvarez</H4>
 						<ul>
 							<strong> Date of Birth:</strong>July 19th 1983<br/>
@@ -78,7 +78,8 @@ if( empty($errors))
 							<strong> Home Number2:</strong> (664) 688-32-06<br/>
 							<strong> Cell Phone Number:</strong> (044)66 43-30-91-16<br/>
 							<strong> Email Address:</strong><a href="mailto:you@yourdomain.com"><id="email">alopez.cesun1013@gmail.com</a><br/>
-							<strong> Linked Profile:</strong><a href="http://www.linkedin.com/pub/abraham-lopez/1a/940/273"><id="link">Abraham Lopez's Profile</a><br/>
+							<strong> Linked Profile:</strong><a href="http://www.linkedin.com/pub/abraham-lopez/1a/940/273">
+																<id="link">Abraham Lopez's Profile</a><br/>
 							<strong> Marital Status: </strong>Single<br/>
 							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/>
 						</ul>
@@ -92,8 +93,6 @@ if( empty($errors))
 						and payroll tax reports and filings, and maintain/update accurate inventories.</li>		
 					</ul>
 		<hr>
-
-		
 			<a name="Experience"></a>
 				<h4>Experience</h4>
 					<ul>
