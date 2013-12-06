@@ -93,8 +93,8 @@ if( empty($errors))
 			<a name="Experience"></a>
 				<h4>Experience</h4>
 					<ul>
-						<li><strong>Border Assembly</strong></li>
-							Project Coordinator
+						<li><strong>Border Assembly | Project Coordinator</strong></li>
+							
 							<ul>
 								<li>Logistics Cordination</li>	
 								<li>Work Order Entry</li> 
@@ -114,8 +114,8 @@ if( empty($errors))
 								<li>Customer Service Care</li>
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
-						<li><strong>Maquiladora CJG</strong></li>
-							Project Coordinator / Software Consultant
+						<li><strong>Maquiladora CJG | Project Coordinator / Software Consultant</strong></li>
+							
 							<ul>
 								<li>Logistics Cordination</li>	
 								<li>Work Order Entry</li> 
@@ -132,8 +132,8 @@ if( empty($errors))
 								<li>Customer Service Care</li>
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
-						<li><strong>Dental Clinic Klinike Dentale</strong></il>
-							It Support
+						<li><strong>Dental Clinic Klinike Dentale | It Support</strong></il>
+							
 							<ul>
 								<li>Proyect Administrator</li>
 								<li>Hardware Maintenance (Preventive Care)</li>
@@ -143,8 +143,8 @@ if( empty($errors))
 								<li>Create New emails</li>
 								<li>Software maintenance (installation, updating, Removing, Blocking, etc)</li> 
 							</ul>
-						<li><strong>Crown Transportation</strong></li>
-							Project Coordinator / Software Consultant
+						<li><strong>Crown Transportation | Project Coordinator / Software Consultant</strong></li>
+							
 							<ul>
 								<li>Implementation of new technologies</li>
 								<li>Validation of current process</li>
@@ -161,16 +161,16 @@ if( empty($errors))
 								<li>Estabilsh goal oriented work schedule</li>
 								<li>Customer Service</li>
 							</ul>
-						<li><strong>DHL Express</strong></li>
-							Logistics Coordinator 
+						<li><strong>DHL Express | Logistics Coordinator</strong></li>
+							 
 							<ul>
 								<li>Logistics Coordination</li>
 								<li>Work Order Entry</li> 
 								<li>Customer Service</li>
 								<li>Data Analyst</li>
 							</ul>
-						<li><strong>Transportes Mexico California Mex-Cal Truckline (August 2011 to April 2013)</strong></li>
-							Project Coordination <br/>
+						<li><strong>Transportes Mexico California Mex-Cal Truckline | Project Coordination (August 2011 to April 2013)</strong></li>
+							 <br/>
 							<ul>
 								<li>Coordination for Account Receivables</li>
 								<li>Implementation of New Tecnologies</li>
@@ -190,8 +190,8 @@ if( empty($errors))
 								<li>Take Notes in meeting</li>
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
-						<li><strong>NLP Furniture</strong></li>
-							Project Coordinator
+						<li><strong>NLP Furniture | Project Coordinator</strong></li>
+							
 							<ul>
 								<li>Work Order Entry</li> 
 								<li>Confirmation with Clients on Furniture Drawing with designer</li> 
@@ -204,8 +204,8 @@ if( empty($errors))
 								<li>Customer service care</li>
 								<li>Validation for transportation for finished goods</li>
 							</ul>
-						<li><strong>NLP Furniture</strong></li>
-							Buyer
+						<li><strong>NLP Furniture | Buyer</strong></li>
+							
 							<ul>
 								<li>Purchase Order Entry</li> 
 								<li>Confirmation with Clients on Furniture Drawing with designer</li> 
@@ -218,8 +218,8 @@ if( empty($errors))
 								<li>Customer service care</li>
 								<li>Validation for transportation for finished goods</li>
 							</ul>
-						<li><strong>NLP Furniture</strong></li>
-							It Support
+						<li><strong>NLP Furniture | It Support</strong></li>
+							
 							<ul>
 								<li>Hardware Maintenance (Preventive Care)</li>
 								<li>Support Newtwork Administration</li>
