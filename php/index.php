@@ -67,7 +67,6 @@ if( empty($errors))
 		</div>
 		<div class="right">
 			<a name="Name"></a>
-				<h3>Name</h3>
 					<h4>Abraham Lopez Alvarez</h4>
 							<strong> Date of Birth:</strong>July 19th 1983<br/>
 							<strong> Place of Birth:</strong>Tijuana Baja California<br/>
