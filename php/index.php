@@ -173,7 +173,7 @@ if( empty($errors))
 								<li>Data Analyst</li>
 							</ul>
 						<li><strong>Transportes Mexico California Mex-Cal Truckline (August 2011 to April 2013)</strong></li>
-							Project Coordination <br>
+							Project Coordination <br/>
 							<ul>
 								<li>Coordination for Account Receivables</li>
 								<li>Implementation of New Tecnologies</li>
@@ -227,7 +227,7 @@ if( empty($errors))
 								<li>Hardware Maintenance (Preventive Care)</li>
 								<li>Support Newtwork Administration</li>
 								<li>Support Server Administration </li>
-								<li>Assign & Create new Users</li>
+								<li>Assign &	 Create new Users</li>
 								<li>Create New emails</li>
 								<li>Software maintenance (installation, updating, Removing, Blocking, etc)</li> 
 							</ul>
