@@ -31,6 +31,7 @@
 			 <a><img src="http://www.web-counter.net/count_20091204.php?c=0QORjqKGLIv" style="border:0;padding:0;margin:0;" alt="contador de visitas"></a>
 			 <br/>
 			 <a href="http://de.web-counter.net" title="Besucherzähler"></a><br/>
+			   <img id="picture" src="images/" alt="" /> </div>
 		</section>
 		<section class="right">
 			
@@ -45,7 +46,6 @@
 							<strong> Email Address:</strong>alopez.cesun1013@gmail.com><br/>
 							<strong> Marital Status: </strong>Single<br/>
 							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/>
-						
 						
 		<hr/>
 			
