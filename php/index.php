@@ -64,7 +64,7 @@ if( empty($errors))
 			 <a href="#Contact">Contact</a><br/>
 			 <p> Contador de Visitas</p>
 			 <a><img src="http://www.web-counter.net/count_20091204.php?c=0QORjqKGLIv" style="border:0;padding:0;margin:0;" alt="contador de visitas"></a>
-			 <br/><font size="1" face="Arial">
+			 <br/>
 			 <a href="http://de.web-counter.net" title="Besucherzähler"></a><br/></font>
 		</section>
 		<div class="right">
@@ -279,7 +279,7 @@ if( empty($errors))
 							<li>Technical Career “ Industrial Maintenance” 1999-2002
 							Only Attended 1 Year</li>
 					</a>
-	</ul>
+		</ul>
 					
 		<hr/>
 			<a id="Language">
