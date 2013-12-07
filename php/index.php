@@ -86,7 +86,7 @@ if( empty($errors))
 						<li>A team player, acknowledged as Customer Service Professional.</li>
 						<li>Develop plan, conduct audits and variance analyses, process payroll
 						and payroll tax reports and filings, and maintain/update accurate inventories.</li>		
-					</ul></a>
+					</a></ul>
 		<hr/>
 			<a id="Experience">
 				<h4>Experience</h4>
