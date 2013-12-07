@@ -54,7 +54,7 @@ if( empty($errors))
 		
 	</header>
 		<section class="left">
-			 <a href="#Name">Name<br/> 
+			 <a href="#Name">Name</a><br/> 
 			 <a href="#AboutMe">About Me</a><br/>
 			 <a href="#Experience">Experience</a> <br/>
 			 <a href="#Skills">Skills</a> <br/>
@@ -65,7 +65,7 @@ if( empty($errors))
 			 <p> Contador de Visitas</p>
 			 <a><img src="http://www.web-counter.net/count_20091204.php?c=0QORjqKGLIv" style="border:0;padding:0;margin:0;" alt="contador de visitas"></a>
 			 <br/><font size="1" face="Arial">
-			 <a href="http://de.web-counter.net" title="Besucherzähler"></a><br/><a></a></font>
+			 <a href="http://de.web-counter.net" title="Besucherzähler"></a><br/></font>
 		</section>
 		<div class="right">
 			<a name="name">
@@ -231,7 +231,7 @@ if( empty($errors))
 								<li>Create New emails</li>
 								<li>Software maintenance (installation, updating, Removing, Blocking, etc)</li> 
 							</ul>
-				</ul>	
+			  </a>	</ul>	
 		<hr/>
 			<a id="Skills">
 				<h4>Skills</h4>
