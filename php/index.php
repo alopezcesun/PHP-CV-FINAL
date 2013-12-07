@@ -54,7 +54,7 @@ if( empty($errors))
 		
 		
 	</header>
-		<div class="left">
+		<section class="left">
 			 <a href="#Name">Name</a><br/> 
 			 <a href="#AboutMe">About Me</a><br/>
 			 <a href="#Experience">Experience</a> <br/>
@@ -63,7 +63,7 @@ if( empty($errors))
 			 <a href="#Language">Language</a><br/> 
 			 <a href="#Photos">Photos</a><br/> 
 			 <a href="#Contact">Contact</a><br/>
-		</div>
+		</section>
 		<div class="right">
 			<a name="name">
 					<h4>Abraham Lopez Alvarez</h4>
