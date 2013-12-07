@@ -12,6 +12,12 @@ header {
 	margin-bottom: 10px;
 }
 
+#picture {
+  width: 190px;
+  float: left;
+}
+
+
 #name {
 	float:left;
 	margin-left: 5px;
