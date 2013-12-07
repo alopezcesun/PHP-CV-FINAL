@@ -50,7 +50,7 @@ if( empty($errors))
 </head>
 <body style="background-color:#d7d7d7">
 	<div id="header">
-		<p id="name1">Abraham Lopez Alvarez </p>
+		<p id="name">Abraham Lopez Alvarez </p>
 		
 		
 	</div>
