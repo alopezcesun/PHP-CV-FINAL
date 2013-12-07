@@ -228,7 +228,7 @@ if( empty($errors))
 							</ul>
 				</ul>	
 		<hr/>
-			<a name="Skills"/>
+			<a name="Skills">
 				<h4>Skills</h4>
 					<p><strong> Languages:</strong> C#, Java, CSS, IOS</p>
 					<p><strong>Frameworks:</strong> .NET, Play</p>
