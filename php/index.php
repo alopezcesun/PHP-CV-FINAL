@@ -233,7 +233,7 @@ if( empty($errors))
 							</ul>
 			  </a>		
 		<hr/>
-			<a id="Skills">
+			
 				<h4>Skills</h4>
 					<p><strong> Languages:</strong> C#, Java, CSS, IOS</p>
 					<p><strong>Frameworks:</strong> .NET, Play</p>
@@ -247,7 +247,7 @@ if( empty($errors))
 							<li>Support Server Administration</li> 
 							<li>Creating new email for users</li>
 							<li>Remote desktop Support(Remote Desktop ,Team Viewer,Log me in,Join Me)</li>
-					</a></ul>
+					</ul>
 		<hr/>
 			<a id="Education">
 				<h4>Education</h4>
