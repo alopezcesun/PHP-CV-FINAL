@@ -247,7 +247,7 @@ if( empty($errors))
 							<li>Support Server Administration</li> 
 							<li>Creating new email for users</li>
 							<li>Remote desktop Support(Remote Desktop ,Team Viewer,Log me in,Join Me)</li>
-						</ul>
+					</a></ul>
 		<hr/>
 			<a id="Education">
 				<h4>Education</h4>
