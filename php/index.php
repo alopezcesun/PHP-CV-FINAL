@@ -86,9 +86,9 @@ if( empty($errors))
 						<li>A team player, acknowledged as Customer Service Professional.</li>
 						<li>Develop plan, conduct audits and variance analyses, process payroll
 						and payroll tax reports and filings, and maintain/update accurate inventories.</li>		
-					</ul>
+					</ul></a>
 		<hr/>
-			<a name="Experience"></a>
+			<a name="Experience">
 				<h4>Experience</h4>
 					<ul>
 						<strong>Border Assembly | Project Coordinator</strong>
@@ -111,7 +111,7 @@ if( empty($errors))
 								initial requirement ( Voice of Customer - VOC )</li>
 								<li>Customer Service Care</li>
 								<li>Confirmation to customer that goods have been shipped</li>
-							</ul>
+							</ul></a>
 						<strong>Maquiladora CJG | Project Coordinator / Software Consultant</strong>
 							
 							<ul>
