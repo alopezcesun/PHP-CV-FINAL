@@ -65,7 +65,7 @@ if( empty($errors))
 			 <a href="#Photos">Photos</a><br/> 
 			 <a href="#Contact">Contact</a><br/>
 			 <p> Contador de Visitas</p>
-			 <a href="http://es.web-counter.net" title="contador de visitas"><img src="http://www.web-counter.net/count_20091204.php?c=0QORjqKGLIv" style="border:0;padding:0;margin:0;" alt="contador de visitas"></a><br/><font size="1" face="Arial"><a href="http://de.web-counter.net" title="Besucherzähler"></a><br/><a></a></font>
+			 <a><img src="http://www.web-counter.net/count_20091204.php?c=0QORjqKGLIv" style="border:0;padding:0;margin:0;" alt="contador de visitas"></a><br/><font size="1" face="Arial"><a href="http://de.web-counter.net" title="Besucherzähler"></a><br/><a></a></font>
 		</section>
 		<div class="right">
 			<a name="name">
