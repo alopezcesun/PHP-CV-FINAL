@@ -95,7 +95,7 @@ if( empty($errors))
 		<hr/>
 			<a id="Experience">
 				<h4>Experience</h4>
-					<ul>
+					
 						<strong>Border Assembly | Project Coordinator</strong>
 							
 							<ul>
