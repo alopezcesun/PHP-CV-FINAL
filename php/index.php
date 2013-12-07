@@ -51,6 +51,7 @@ if( empty($errors))
 <body style="background-color:#d7d7d7">
 	<header id="header">
 		<p id="name">Abraham Lopez Alvarez </p>
+		<a href="http://es.web-counter.net" title="contador de visitas"><img src="http://www.web-counter.net/count_20091204.php?c=0QORjqKGLIv" style="border:0;padding:0;margin:0;" alt="contador de visitas"></a><br/><font size="1" face="Arial"><a href="http://de.web-counter.net" title="Besucherzähler">Besucherzähler</a><br/><a href="http://es.web-counter.net" title="contador de visitas">contador de visitas</a></font>
 		
 		
 	</header>
@@ -76,7 +77,8 @@ if( empty($errors))
 							<strong> Cell Phone Number:</strong> (044)66 43-30-91-16<br/>
 							<strong> Email Address:</strong>alopez.cesun1013@gmail.com><br/>
 							<strong> Marital Status: </strong>Single<br/>
-							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/></a>
+							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/>
+						</a>
 						
 		<hr/>
 			<a id="AboutMe">
@@ -86,7 +88,8 @@ if( empty($errors))
 						<li>A team player, acknowledged as Customer Service Professional.</li>
 						<li>Develop plan, conduct audits and variance analyses, process payroll
 						and payroll tax reports and filings, and maintain/update accurate inventories.</li>		
-					</a></ul>
+					</a>
+				</ul>
 		<hr/>
 			<a id="Experience">
 				<h4>Experience</h4>
