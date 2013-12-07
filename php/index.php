@@ -304,7 +304,7 @@ if( empty($errors))
 				</div>
 				<div class="ws_bullets">
 					<div>
-						<a href="#" title="To see te World"><img src="data1/tooltips/anotherhorizon.jpg" alt="To see te World"/>1
+						<a href="#" title="To see te World"/><img src="data1/tooltips/anotherhorizon.jpg" alt="To see te World"/>1
 						<a href="#" title="Walk on the beach"><img src="data1/tooltips/beach_landscape_7____sept_2009_by_pricecw_stock.jpg" alt="Walk on the beach"/>2
 						<a href="#" title="Nice Waterfall"><img src="data1/tooltips/glencarwaterfall830.jpg" alt="Nice Waterfall"/>3
 						<a href="#" title="Let there be light"><img src="data1/tooltips/gods_finger_water.jpg" alt="Let there be light"/>4
