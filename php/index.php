@@ -31,7 +31,7 @@
 			 <a><img src="http://www.web-counter.net/count_20091204.php?c=0QORjqKGLIv" style="border:0;padding:0;margin:0;" alt="contador de visitas"></a>
 			 <br/>
 			 <a href="http://de.web-counter.net" title="Besucherzähler"></a><br/>
-			   <img id="picture" src="images/" alt="" /> </div>
+			   <img id="picture" src="images/" alt="" /> 
 		</section>
 		<section class="right">
 			
