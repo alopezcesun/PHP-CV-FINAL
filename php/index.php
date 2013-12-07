@@ -232,7 +232,7 @@ if( empty($errors))
 								<li>Create New emails</li>
 								<li>Software maintenance (installation, updating, Removing, Blocking, etc)</li> 
 							</ul>
-			  </a>		
+			  	
 		<hr/>
 			
 				<h4>Skills</h4>
