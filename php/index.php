@@ -90,7 +90,8 @@ if( empty($errors))
 						<li>A team player, acknowledged as Customer Service Professional.</li>
 						<li>Develop plan, conduct audits and variance analyses, process payroll
 						and payroll tax reports and filings, and maintain/update accurate inventories.</li>		
-									</ul>
+					</a>
+				</ul>
 		<hr/>
 			<a id="Experience">
 				<h4>Experience</h4>
@@ -277,7 +278,8 @@ if( empty($errors))
 						<ul>
 							<li>Technical Career “ Industrial Maintenance” 1999-2002
 							Only Attended 1 Year</li>
-					</a>	</ul>
+					</a>
+	</ul>
 					
 		<hr/>
 			<a id="Language">
