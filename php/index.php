@@ -278,7 +278,7 @@ if( empty($errors))
 						<ul>
 							<li>Technical Career “ Industrial Maintenance” 1999-2002
 							Only Attended 1 Year</li>
-						</ul>
+					</a>	</ul>
 					
 		<hr/>
 			<a id="Language">
