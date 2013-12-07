@@ -246,20 +246,20 @@ if( empty($errors))
 		<hr/>
 			<a name="Education"></a>
 				<h4>Education</h4>
-					<li><strong>Professional Education</strong>
+					<strong>Professional Education</strong>
 						Cesun University Tijuana, B.C., México
 						<ul>
 							<li>Software Development Engineering 2010-2013 (Current)<br/>
 							Due to be completed by December 2013 </li>
 						</ul>
-					</li>
-					<li><strong>Professional Education</strong>
+					
+					<strong>Professional Education</strong>
 						Universidad Autónoma de Baja California  Tijuana, B.C., México
 						<ul>
 							<li>Electronic Engineering 2003-2004
 							Only Attended 1 Year</li>
 						</ul>
-					</li>
+					
 
 					<strong>High School Education</strong>
 						CBTIS # 155  Tijuana, B.C., México
@@ -268,13 +268,13 @@ if( empty($errors))
 							Only Attended 1 Year</li>
 						</ul>
 					
-					<li><strong>Specialized Computer Education</strong>
+					<strong>Specialized Computer Education</strong>
 						CBTIS # 155  Tijuana, B.C., México
 						<ul>
 							<li>Technical Career “ Industrial Maintenance” 1999-2002
 							Only Attended 1 Year</li>
 						</ul>
-					</li>
+					
 		<hr/>
 			<a name="Language"></a>
 				<h4>Language</h4>
