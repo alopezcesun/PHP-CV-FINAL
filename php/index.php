@@ -83,14 +83,14 @@ if( empty($errors))
 						
 						
 		<hr/>
-			<a id="AboutMe">
+			
 				<h4>About Me</h4>
 					<ul>
 						<li>More than 4 years successful experience in customer service and support with recognized strengths in account retention, problem- solving and trouble-shooting, sales staff support, and planning/implementing proactive procedures and systems to avoid problems in the first place.</li>
 						<li>A team player, acknowledged as Customer Service Professional.</li>
 						<li>Develop plan, conduct audits and variance analyses, process payroll
 						and payroll tax reports and filings, and maintain/update accurate inventories.</li>		
-					</a>
+				
 				</ul>
 		<hr/>
 			<a id="Experience">
