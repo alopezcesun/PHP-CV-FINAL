@@ -76,7 +76,7 @@ if( empty($errors))
 							<strong> Cell Phone Number:</strong> (044)66 43-30-91-16<br/>
 							<strong> Email Address:</strong>alopez.cesun1013@gmail.com><br/>
 							<strong> Marital Status: </strong>Single<br/>
-							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/>
+							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/></a>
 						
 		<hr/>
 			<a name="AboutMe">
