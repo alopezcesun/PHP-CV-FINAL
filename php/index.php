@@ -49,11 +49,11 @@ if( empty($errors))
 
 </head>
 <body style="background-color:#d7d7d7">
-	<div id="header">
+	<header id="header">
 		<p id="name">Abraham Lopez Alvarez </p>
 		
 		
-	</div>
+	</header>
 		<div class="left">
 			 <a href="#Name">Name</a><br/> 
 			 <a href="#AboutMe">About Me</a><br/>
