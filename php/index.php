@@ -88,7 +88,7 @@ if( empty($errors))
 						and payroll tax reports and filings, and maintain/update accurate inventories.</li>		
 					</ul></a>
 		<hr/>
-			<a name="Experience">
+			<a id="Experience">
 				<h4>Experience</h4>
 					<ul>
 						<strong>Border Assembly | Project Coordinator</strong>
