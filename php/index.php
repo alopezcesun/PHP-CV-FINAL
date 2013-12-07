@@ -305,11 +305,11 @@ if( empty($errors))
 				<div class="ws_bullets">
 					<div>
 						<a href="#" title="To see te World"><img src="data1/tooltips/anotherhorizon.jpg" alt="To see te World"/>1
-						<a href="#" title="Walk on the beach"><img src="data1/tooltips/beach_landscape_7____sept_2009_by_pricecw_stock.jpg" alt="Walk on the beach"/>2</a>
-						<a href="#" title="Nice Waterfall"><img src="data1/tooltips/glencarwaterfall830.jpg" alt="Nice Waterfall"/>3</a>
-						<a href="#" title="Let there be light"><img src="data1/tooltips/gods_finger_water.jpg" alt="Let there be light"/>4</a>
-						<a href="#" title="Its true"><img src="data1/tooltips/img_0156.jpg" alt="Its true"/>5</a>
-						<a href="#" title="What can i say!"><img src="data1/tooltips/img_0355.jpg" alt="What can i say!"/>6</a>
+						<a href="#" title="Walk on the beach"><img src="data1/tooltips/beach_landscape_7____sept_2009_by_pricecw_stock.jpg" alt="Walk on the beach"/>2
+						<a href="#" title="Nice Waterfall"><img src="data1/tooltips/glencarwaterfall830.jpg" alt="Nice Waterfall"/>3
+						<a href="#" title="Let there be light"><img src="data1/tooltips/gods_finger_water.jpg" alt="Let there be light"/>4
+						<a href="#" title="Its true"><img src="data1/tooltips/img_0156.jpg" alt="Its true"/>5
+						<a href="#" title="What can i say!"><img src="data1/tooltips/img_0355.jpg" alt="What can i say!"/>6
 					</div>
 				</div>
 				<span class="wsl"><a href="http://wowslider.com">jQuery Gallery</a> by WOWSlider.com v4.8m</span>
