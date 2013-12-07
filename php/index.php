@@ -249,7 +249,7 @@ if( empty($errors))
 							<li>Remote desktop Support(Remote Desktop ,Team Viewer,Log me in,Join Me)</li>
 					</ul>
 		<hr/>
-			<a id="Education">
+			
 				<h4>Education</h4>
 					<strong>Professional Education</strong>
 						Cesun University Tijuana, B.C., México
@@ -278,7 +278,7 @@ if( empty($errors))
 						<ul>
 							<li>Technical Career “ Industrial Maintenance” 1999-2002
 							Only Attended 1 Year</li>
-					</a>
+					
 		</ul>
 					
 		<hr/>
