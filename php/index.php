@@ -260,13 +260,14 @@ if( empty($errors))
 							Only Attended 1 Year</li>
 						</ul>
 					</li>
-					<li><strong>High School Education</strong>
+
+					<strong>High School Education</strong>
 						CBTIS # 155  Tijuana, B.C., México
 						<ul>
 							<li>Technical Career “Industrial Maintenance” 1999-2002<br/>
 							Only Attended 1 Year</li>
 						</ul>
-					</li>
+					
 					<li><strong>Specialized Computer Education</strong>
 						CBTIS # 155  Tijuana, B.C., México
 						<ul>
