@@ -65,9 +65,9 @@ if( empty($errors))
 			 <a href="#Contact">Contact</a><br/>
 		</section>
 		<div class="right">
-			<a name="name">
+			<a id="name">
 					<h4>Abraham Lopez Alvarez</h4>
-							<strong> Date of Birth:</strong>July 19th 1983<br/>
+							<b> Date of Birth:</b>July 19th 1983<br/>
 							<strong> Place of Birth:</strong>Tijuana Baja California<br/>
 							<strong> Address:</strong>7th Street # 7767, Down Town Tijuana, B.C., Mexico.<br/> 
 							<strong> Zip Code:</strong>22000<br/>
@@ -79,7 +79,7 @@ if( empty($errors))
 							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/></a>
 						
 		<hr/>
-			<a name="AboutMe">
+			<a id="AboutMe">
 				<h4>About Me</h4>
 					<ul>
 						<li>More than 4 years successful experience in customer service and support with recognized strengths in account retention, problem- solving and trouble-shooting, sales staff support, and planning/implementing proactive procedures and systems to avoid problems in the first place.</li>
@@ -294,7 +294,7 @@ if( empty($errors))
 						<li><img src="data1/images/gods_finger_water.jpg" alt="Let there be light" title="Let there be light" id="wows1_3"/></li>
 						<li><img src="data1/images/img_0156.jpg" alt="Its true" title="Its true" id="wows1_4"/></li>
 						<li><img src="data1/images/img_0355.jpg" alt="What can i say!" title="What can i say!" id="wows1_5"/></li>
-					</ul>
+					</ul></a>
 				</div>
 				<div class="ws_bullets">
 					<div>
