@@ -228,7 +228,7 @@ if( empty($errors))
 							</ul>
 				</ul>	
 		<hr/>
-			<a name="Skills">
+			<a id="Skills">
 				<h4>Skills</h4>
 					<p><strong> Languages:</strong> C#, Java, CSS, IOS</p>
 					<p><strong>Frameworks:</strong> .NET, Play</p>
@@ -244,7 +244,7 @@ if( empty($errors))
 							<li>Remote desktop Support(Remote Desktop ,Team Viewer,Log me in,Join Me)</li>
 						</ul>
 		<hr/>
-			<a name="Education">
+			<a id="Education">
 				<h4>Education</h4>
 					<strong>Professional Education</strong>
 						Cesun University Tijuana, B.C., México
@@ -276,14 +276,14 @@ if( empty($errors))
 						</ul>
 					
 		<hr/>
-			<a name="Language">
+			<a id="Language">
 				<h4>Language</h4>
 					<ul>
 						<li>Spanish (Native Language)</li>
 						<li>English 97% (Spoken/Written)</li>
 					</ul>
 		<hr/>
-			<a name="Photos">
+			<a id="Photos">
 				<h4>Photos</h4>
 					<p>Image Galery</p>
 			<div id="wowslider-container1">
@@ -313,7 +313,7 @@ if( empty($errors))
 					<script type="text/javascript" src="engine1/wowslider.js"></script>
 					<script type="text/javascript" src="engine1/script.js"></script>
 		<hr/>
-				<a name="Contact">
+				<a id="Contact">
 				<h4>Contact us</h4>
 					<ul>
 						<?php
