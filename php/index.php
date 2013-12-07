@@ -11,42 +11,6 @@
 		<link rel="stylesheet" type="text/css" href="engine1/style.css" />
 			<script type="text/javascript" src="engine1/jquery.js"></script>
 	<!-- End WOWSlider.com HEAD section -->
-<?php 
-$errors = '';
-$myemail = 'alopez.cesun1013@gmail.com';//<-----Put Your email address here.
-if(empty($_POST['name'])  || 
-   empty($_POST['email']) || 
-   empty($_POST['message']))
-{
-    $errors .= "\n Error: all fields are required";
-}
-
-$name = $_POST['name']; 
-$email_address = $_POST['email']; 
-$message = $_POST['message']; 
-
-if (!preg_match(
-"/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/i", 
-$email_address))
-{
-    $errors .= "\n Error: Invalid email address";
-}
-
-if( empty($errors))
-{
-	$to = $myemail; 
-	$email_subject = "Contact form submission: $name";
-	$email_body = "You have received a new message. ".
-	" Here are the details:\n Name: $name \n Email: $email_address \n Message \n $message"; 
-	
-	$headers = "From: $myemail\n"; 
-	$headers .= "Reply-To: $email_address";
-	
-	mail($to,$email_subject,$email_body,$headers);
-	//redirect to the 'thank you' page
-	header('Location: contact-form-thank-you.html');
-} 
-?>
 
 </head>
 <body style="background-color:#d7d7d7">
@@ -68,7 +32,7 @@ if( empty($errors))
 			 <br/>
 			 <a href="http://de.web-counter.net" title="Besucherzähler"></a><br/>
 		</section>
-		<div class="right">
+		<section class="right">
 			
 					<h4>Abraham Lopez Alvarez</h4>
 							<b> Date of Birth:</b>July 19th 1983<br/>
@@ -324,6 +288,7 @@ if( empty($errors))
 				<h4>Contact us</h4>
 					<ul>
 						<?php
+
 $action=$_REQUEST['action'];
 if (!$action=="action")    /* display the contact form */
     {
@@ -359,7 +324,7 @@ else                /* send the submitted data */
 ?>
 						
 					</ul>			
-		</div>
+		</section>
 		</div>
 		<footer id="footer">
 			&copy; Abraham Industries |   Abraham Lopez Alvarez | Tel: (664) 330-9116
