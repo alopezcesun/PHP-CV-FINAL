@@ -289,7 +289,7 @@ if( empty($errors))
 						<li>English 97% (Spoken/Written)</li>
 					</ul>
 		<hr/>
-			<a id="Photos">
+			
 				<h4>Photos</h4>
 					<p>Image Galery</p>
 			<div id="wowslider-container1">
@@ -300,7 +300,7 @@ if( empty($errors))
 						<li><img src="data1/images/gods_finger_water.jpg" alt="Let there be light" title="Let there be light" id="wows1_3"/></li>
 						<li><img src="data1/images/img_0156.jpg" alt="Its true" title="Its true" id="wows1_4"/></li>
 						<li><img src="data1/images/img_0355.jpg" alt="What can i say!" title="What can i say!" id="wows1_5"/></li>
-					</a></ul>
+					</ul>
 				</div>
 				<div class="ws_bullets">
 					<div>
@@ -319,7 +319,7 @@ if( empty($errors))
 					<script type="text/javascript" src="engine1/wowslider.js"></script>
 					<script type="text/javascript" src="engine1/script.js"></script>
 		<hr/>
-				<a id="Contact">
+				
 				<h4>Contact us</h4>
 					<ul>
 						<?php
