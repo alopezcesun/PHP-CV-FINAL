@@ -65,7 +65,7 @@ if( empty($errors))
 			 <p> Contador de Visitas</p>
 			 <a><img src="http://www.web-counter.net/count_20091204.php?c=0QORjqKGLIv" style="border:0;padding:0;margin:0;" alt="contador de visitas"></a>
 			 <br/>
-			 <a href="http://de.web-counter.net" title="Besucherzähler"></a><br/></font>
+			 <a href="http://de.web-counter.net" title="Besucherzähler"></a><br/>
 		</section>
 		<div class="right">
 			<a name="name">
