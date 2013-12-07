@@ -91,7 +91,7 @@ if( empty($errors))
 			<a name="Experience"></a>
 				<h4>Experience</h4>
 					<ul>
-						<li><strong>Border Assembly | Project Coordinator</strong></li>
+						<strong>Border Assembly | Project Coordinator</strong>
 							
 							<ul>
 								<li>Logistics Cordination</li>	
@@ -112,7 +112,7 @@ if( empty($errors))
 								<li>Customer Service Care</li>
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
-						<li><strong>Maquiladora CJG | Project Coordinator / Software Consultant</strong></li>
+						<strong>Maquiladora CJG | Project Coordinator / Software Consultant</strong>
 							
 							<ul>
 								<li>Logistics Cordination</li>	
@@ -130,7 +130,7 @@ if( empty($errors))
 								<li>Customer Service Care</li>
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
-						<li><strong>Dental Clinic Klinike Dentale | It Support</strong></il>
+						<strong>Dental Clinic Klinike Dentale | It Support</strong>
 							
 							<ul>
 								<li>Proyect Administrator</li>
@@ -141,7 +141,7 @@ if( empty($errors))
 								<li>Create New emails</li>
 								<li>Software maintenance (installation, updating, Removing, Blocking, etc)</li> 
 							</ul>
-						<li><strong>Crown Transportation | Project Coordinator / Software Consultant</strong></li>
+						<strong>Crown Transportation | Project Coordinator / Software Consultant</strong>
 							
 							<ul>
 								<li>Implementation of new technologies</li>
@@ -159,7 +159,7 @@ if( empty($errors))
 								<li>Estabilsh goal oriented work schedule</li>
 								<li>Customer Service</li>
 							</ul>
-						<li><strong>DHL Express | Logistics Coordinator</strong></li>
+						<strong>DHL Express | Logistics Coordinator</strong>
 							 
 							<ul>
 								<li>Logistics Coordination</li>
@@ -167,7 +167,7 @@ if( empty($errors))
 								<li>Customer Service</li>
 								<li>Data Analyst</li>
 							</ul>
-						<li><strong>Transportes Mexico California Mex-Cal Truckline | Project Coordination (August 2011 to April 2013)</strong></li>
+						<strong>Transportes Mexico California Mex-Cal Truckline | Project Coordination (August 2011 to April 2013)</strong>
 							 <br/>
 							<ul>
 								<li>Coordination for Account Receivables</li>
@@ -188,7 +188,7 @@ if( empty($errors))
 								<li>Take Notes in meeting</li>
 								<li>Confirmation to customer that goods have been shipped</li>
 							</ul>
-						<li><strong>NLP Furniture | Project Coordinator</strong></li>
+						<strong>NLP Furniture | Project Coordinator</strong>
 							
 							<ul>
 								<li>Work Order Entry</li> 
@@ -202,7 +202,7 @@ if( empty($errors))
 								<li>Customer service care</li>
 								<li>Validation for transportation for finished goods</li>
 							</ul>
-						<li><strong>NLP Furniture | Buyer</strong></li>
+						<strong>NLP Furniture | Buyer</strong>
 							
 							<ul>
 								<li>Purchase Order Entry</li> 
@@ -216,7 +216,7 @@ if( empty($errors))
 								<li>Customer service care</li>
 								<li>Validation for transportation for finished goods</li>
 							</ul>
-						<li><strong>NLP Furniture | It Support</strong></li>
+						<strong>NLP Furniture | It Support</strong>
 							
 							<ul>
 								<li>Hardware Maintenance (Preventive Care)</li>
