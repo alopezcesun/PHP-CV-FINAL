@@ -51,12 +51,10 @@ if( empty($errors))
 <body style="background-color:#d7d7d7">
 	<header id="header">
 		<p id="name">Abraham Lopez Alvarez </p>
-
-		
 		
 	</header>
 		<section class="left">
-			 <a href="#Name">Name</a><br/> 
+			 <a href="#Name">Name<br/> 
 			 <a href="#AboutMe">About Me</a><br/>
 			 <a href="#Experience">Experience</a> <br/>
 			 <a href="#Skills">Skills</a> <br/>
@@ -65,7 +63,9 @@ if( empty($errors))
 			 <a href="#Photos">Photos</a><br/> 
 			 <a href="#Contact">Contact</a><br/>
 			 <p> Contador de Visitas</p>
-			 <a><img src="http://www.web-counter.net/count_20091204.php?c=0QORjqKGLIv" style="border:0;padding:0;margin:0;" alt="contador de visitas"></a><br/><font size="1" face="Arial"><a href="http://de.web-counter.net" title="Besucherzähler"></a><br/><a></a></font>
+			 <a><img src="http://www.web-counter.net/count_20091204.php?c=0QORjqKGLIv" style="border:0;padding:0;margin:0;" alt="contador de visitas"></a>
+			 <br/><font size="1" face="Arial">
+			 <a href="http://de.web-counter.net" title="Besucherzähler"></a><br/><a></a></font>
 		</section>
 		<div class="right">
 			<a name="name">
