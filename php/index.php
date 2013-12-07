@@ -111,7 +111,7 @@ if( empty($errors))
 								initial requirement ( Voice of Customer - VOC )</li>
 								<li>Customer Service Care</li>
 								<li>Confirmation to customer that goods have been shipped</li>
-							</ul></a>
+							</ul>
 						<strong>Maquiladora CJG | Project Coordinator / Software Consultant</strong>
 							
 							<ul>
