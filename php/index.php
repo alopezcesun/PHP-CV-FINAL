@@ -54,7 +54,7 @@ if( empty($errors))
 		
 	</header>
 		<section class="left">
-			 <a href="#Name">Name</a><br/> 
+			 <a href="#MyNombre">Name</a><br/> 
 			 <a href="#AboutMe">About Me</a><br/>
 			 <a href="#Experience">Experience</a> <br/>
 			 <a href="#Skills">Skills</a> <br/>
