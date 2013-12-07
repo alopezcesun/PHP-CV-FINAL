@@ -2,7 +2,7 @@ div {
 	border-radius: 5px;
 }
 
-#header {
+header {
 	z-index: 1;
 	position: fixed;
 	width: 99%;
@@ -49,8 +49,6 @@ li {
 }
 
 
-
-
 .left {
 	position: relative;
 	float: left;
@@ -71,7 +69,7 @@ li {
 	margin-bottom: 10px;
 }
 
-#footer {
+footer {
 	position: relative;
 	height: 50px;
 	background-color: #668284;
@@ -82,7 +80,7 @@ li {
 	color: #ffffff;
 }
 
-#footer p {
+footer p {
 	position: relative;
 	padding-top: 15px;
 }
