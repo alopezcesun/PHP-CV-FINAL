@@ -68,7 +68,7 @@ if( empty($errors))
 			 <a href="http://de.web-counter.net" title="Besucherzähler"></a><br/>
 		</section>
 		<div class="right">
-			<a name="MyNombre">
+			
 					<h4>Abraham Lopez Alvarez</h4>
 							<b> Date of Birth:</b>July 19th 1983<br/>
 							<strong> Place of Birth:</strong>Tijuana Baja California<br/>
@@ -80,7 +80,7 @@ if( empty($errors))
 							<strong> Email Address:</strong>alopez.cesun1013@gmail.com><br/>
 							<strong> Marital Status: </strong>Single<br/>
 							<strong> Military Card (Mexican Army Reserve):</strong>Service Completed<br/>
-						</a>
+						
 						
 		<hr/>
 			<a id="AboutMe">
