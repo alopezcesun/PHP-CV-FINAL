@@ -354,8 +354,8 @@ else                /* send the submitted data */
 					</ul>			
 		</div>
 		</div>
-		<div id="footer">
+		<footer id="footer">
 			&copy; Abraham Industries |   Abraham Lopez Alvarez | Tel: (664) 330-9116
-		</div>
+		</footer>
 	</body>
 </html>
