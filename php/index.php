@@ -294,7 +294,7 @@ if( empty($errors))
 						<li><img src="data1/images/gods_finger_water.jpg" alt="Let there be light" title="Let there be light" id="wows1_3"/></li>
 						<li><img src="data1/images/img_0156.jpg" alt="Its true" title="Its true" id="wows1_4"/></li>
 						<li><img src="data1/images/img_0355.jpg" alt="What can i say!" title="What can i say!" id="wows1_5"/></li>
-					</ul></a>
+					</a></ul>
 				</div>
 				<div class="ws_bullets">
 					<div>
